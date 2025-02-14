@@ -1,0 +1,1 @@
+Beim Status von foo.txt und bar.txt ist neu "A" statt "?". Die Dateien sind also zum commit vorgemerkt.
