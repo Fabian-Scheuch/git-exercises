@@ -1,0 +1,5 @@
+Beide Dateien werden als deleted angezeigt, aber die mit git rm entfernte Dateien wird als gestaged gezeigt, die mit rm entfernte nicht.
+
+git restore datei.txt verwenden, wenn mit rm entfernt. git restore --staged datei.txt und git restore Datei.txt, wenn mit git rm entfernt.
+
+git rm ist vorzuziehen. Die Umbenennung wird automatisch im Git-Index verfolgt und die Änderung korrekt im Repository gespeichert.

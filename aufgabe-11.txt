@@ -1,0 +1,5 @@
+git log -n 5 --stat -p: Die letzten 5 Commits anzeigen sowie die Änderungen.
+
+git log --since="2 weeks ago": Alle Commits anzeigen, die in den letzten 2 Wochen gemacht wurden.
+
+git log --author="Fabian": Alle Commits von einem bestimmten Autor anzeigen.
